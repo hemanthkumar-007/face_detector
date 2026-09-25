@@ -1,0 +1,6 @@
+face_detector.py
+requirements.txt
+__pycache__/
+*.py[cod]
+.git/
+.vscode/
